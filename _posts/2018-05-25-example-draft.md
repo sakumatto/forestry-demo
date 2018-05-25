@@ -2,9 +2,10 @@
 title: Example Draft
 layout: post
 date: 2018-01-19 00:00:00 +0000
-sub_heading: ''
+sub_heading: oho, mikä tämä on?
 tags: []
 related_posts: []
+banner_image: ''
 ---
 ## What are draft posts?
 
